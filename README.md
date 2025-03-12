@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Anurag Kaushik</h1>
 <h3 align="center">📊 An aspiring and passionate Data Enthusiast</h3>
 
-<img align="right" alt="Analytics Dashbaord" width="400" src="">
+
+
+
+![My Github dashbaord image](https://github.com/user-attachments/assets/53df3379-c3fd-436b-a04c-b6a34f4132ec)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anurag1993-git&label=Profile%20views&color=0e75b6&style=flat" alt="anurag1993-git" /> </p>
 
