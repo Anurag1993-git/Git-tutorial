@@ -1,3 +1,4 @@
+![Add a sub8p-heading](https://github.com/user-attachments/assets/170ab180-6bef-4a95-a7e1-f3c0075f87a0)
 <h1 align="center">Hi 👋, I'm Anurag Kaushik</h1>
 <h3 align="center">📊 An aspiring and passionate Data Enthusiast</h3>
 
