@@ -12,9 +12,9 @@
 
 - 🌱 I’m currently learning **Python, Matplotlib, NumPy and Power Bi**
 
-- 👨‍💻 All of my projects are available at [https://anuraganalytics.my.canva.site/](https://anuraganalytics.my.canva.site/)
+- 👨‍💻 All of my projects are available at (https://www.datascienceportfol.io/anuragkaushik867)
 
-- 📫 How to reach me **anuragkaushik867@gmail.com**
+- 📫 How to reach me **anuragkdataanalyst@gmail.com**
 
 - ⚡ Fun fact **I am funny 😊**
 
